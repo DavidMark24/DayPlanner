@@ -23,6 +23,10 @@ body {
     border-radius: 0;
     border-bottom: 10px solid black;
   }
+
+  .jumbotron p {
+    font-family: 'Oswald' , sans-serif;
+  }
   
   .description{
     white-space: pre-wrap;
