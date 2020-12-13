@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 16px;
     line-height: 1;
   }
@@ -17,6 +17,7 @@ body {
   
   .jumbotron {
     text-align: center;
+    font-family:'Abril Fatface', cursive;
     background-color: transparent;
     color: black;
     border-radius: 0;
